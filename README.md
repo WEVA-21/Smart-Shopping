@@ -55,7 +55,7 @@ The system allows customers to place products in a smart cart, automatically det
 - Member 17: [El Saeed Mahmoud Mohamed Hassan Sahsah]
 - Member 18: [Mohamed Abdallah Abdallah]
 - Member 19: [Shadia Mohamed Mohamed Abd Elkader]
-- Member 20: [Mohamed Reda Abdel Baset Mohamed]
+- Member 20: [Mohamed Reda AbdElbasit Mohamed]
 - Member 21: [Ahmed Metwally Mohamed Bastawisi]
 
 
